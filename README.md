@@ -62,6 +62,6 @@
 
 ## 발표 자료
 
-[프로젝트 발표 자료 보기](https://github.com/gyu2001/aws-3tier-web-architecture/blob/main/aws-3tier-web-architecture.pdf)
+[프로젝트 발표 자료 보기](https://github.com/gyu2001/aws-3tier-web-architecture/blob/main/aws-3tier-web-service.pdf)
 
 > 위 자료는 팀 전체 프로젝트 내용을 담고 있습니다. 본인이 실제로 담당한 범위는 위 "담당 역할" 기준으로 확인하실 수 있습니다.
