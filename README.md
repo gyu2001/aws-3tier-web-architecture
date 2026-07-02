@@ -6,25 +6,8 @@
 
 ## Architecture
 
-    [ Route53 ]
-         │
-       [ ALB ]
-         │
-    ┌────┴────┐
-    │ Public   │  Nginx (Reverse Proxy)
-    │ Subnet   │
-    └────┬────┘
-         │
-    ┌────┴────┐
-    │ Private  │  Tomcat (WAS)
-    │ Subnet   │
-    └────┬────┘
-         │
-    ┌────┴────┐
-    │ DB       │  RDS (MySQL)
-    │ Subnet   │
-    └─────────┘
-
+![Architecture](/architecture.png)
+  
 ---
 
 ## 담당 역할
