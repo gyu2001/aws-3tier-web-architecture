@@ -48,18 +48,6 @@
 
 ---
 
-## 검증 결과
-
-*(내일 스크린샷 추가 예정)*
-
-- [ ] VPC/서브넷 구성 콘솔 화면
-- [ ] 보안그룹 인바운드 규칙
-- [ ] ALB 타겟그룹 Healthy 상태
-- [ ] Nginx-Tomcat 연동 확인 (실제 접속 화면)
-- [ ] RDS 인스턴스 Available 상태
-
----
-
 ## 발표 자료
 
 [프로젝트 발표 자료 보기](https://github.com/gyu2001/aws-3tier-web-architecture/blob/main/aws-3tier-web-service.pdf)
